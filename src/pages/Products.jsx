@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import API from "../services/api";
+import API from "../services/API";
 import { useNavigate } from "react-router-dom";
 import { Navbar, Nav } from "react-bootstrap";
 import {
